@@ -1,5 +1,5 @@
 ### Date created
-Updated README document
+Helpful Text
 Include the date you created this project and README file.
 
 ### Project Title
