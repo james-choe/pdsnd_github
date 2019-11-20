@@ -1,5 +1,5 @@
 ### Date created
-Updated RADME document
+Updated README document
 Include the date you created this project and README file.
 
 ### Project Title
