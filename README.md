@@ -9,6 +9,9 @@ Description: Working with local and remote repositories
 
 ### Files used
 bikeshare.py
+chicago.csv
+washington.csv
+new_york_city.csv
 
 
 ### Credits
