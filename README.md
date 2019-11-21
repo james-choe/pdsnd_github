@@ -1,12 +1,11 @@
 ### Date created
-Helpful Text
-Include the date you created this project and README file.
+Date Created: 11/20/2019.
 
 ### Project Title
-Replace the Project Title
+GitHub Project
 
 ### Description
-Describe what your project is about and what it does
+Description: Working with local and remote repositories
 
 ### Files used
 Include the files used
