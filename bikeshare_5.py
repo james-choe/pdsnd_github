@@ -68,7 +68,7 @@ def get_filters():
         if day == 'all':
             break
         else:
-            day = input('Please choose a valid day: ')
+            day = input('That is not a valid option. Please choose again: ')
     # get user input for day of week (all, monday, tuesday, ... sunday)
     print(city, month, day)
     print('-'*40)
